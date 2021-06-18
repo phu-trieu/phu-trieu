@@ -1,6 +1,6 @@
 # Hi there, I'm Phu, nice to meet you! 👋
 ![phu-trieu GitHub Stats](https://github-readme-stats.vercel.app/api?username=phu-trieu&show_icons=true&count_private=true&theme=react)
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phu-trieu&repo=stonk-reacts)](https://github.com/phu-trieu/stonk-reacts) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phu-trieu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **phu-trieu/phu-trieu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 💻 About Me
+## 👨 About Me
 I'm a college graduate with a B.S. in nutrition and dietetics turned full-stack software engineer. I made the decision to switch career paths after I realized that I would come home from a day of classes and just feel drained and unmotivated. However, after taking a few introductory programming courses, I felt as if my passion for learning was reignited. I soon enrolled in an accelerated web-development program called LearningFuze and haven't looked back since. Nowadays, you'll find me spending 6-8 hours a day expanding my knowledge of programming and writing code. I particularly love designing website prototypes and then bringing them to fruition. 
 
 In my free time, I enjoy playing video games (currently on my second playthrough of Stardew Valley), shooting some hoops, gardening, cooking, and weightlifting. If you'd like to know more about me, feel free to contact me through the links below. I'm more than happy to chat! 
@@ -26,9 +26,10 @@ In my free time, I enjoy playing video games (currently on my second playthrough
 
 ## 📝 Learn More About Me
 * [My Portfolio](https://phutrieu.com/ "My Portfolio")
-* [My Resume](https://drive.google.com/file/d/1fOZB3iVEqGTag5KKjgNike8VCy0mEWw9/view?usp=sharing "My Resume")
+* [My Resume](/Phu_Trieu_Resume_v3.pdf "My Resume")
 
-## My Skills
+
+## ✒️ My Skills
 <div>
   <img title="JavaScript" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
   <img title="HTML" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
@@ -38,6 +39,21 @@ In my free time, I enjoy playing video games (currently on my second playthrough
   <img title="Express" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png">
   <img title="Bootstrap" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">
   <img title="PostgreSQL" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png">
-  <img title="Git" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
-  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/adobecreativecloud.svg" />
 </div>
+
+## 🔨 My Tools
+<div>
+  <img title="Adobe Creative Cloud" height="40" src="img/adobecreativecloud.svg">
+  <img title="Amazon Web Services" height="40" src="img/aws.svg">
+  <img title="Babel" height="40" src="img/babel.svg">
+  <img title="Figma" height="40" src="img/figma.svg">
+  <img title="GitHub" height="40" src="img/github.svg">
+  <img title="Git" height="40" src="img/git.svg">
+  <img title="npm" height="40" src="img/npm.svg">
+  <img title="Postman" height="40" src="img/postman.svg">
+  <img title="Slack" height="40" src="img/slack.svg">
+  <img title="Visual Studio Code" height="40" src="img/visualstudiocode.svg">
+  <img title="webpack" height="40" src="img/webpack.svg">
+</div>
+
+## 💻 Applications 
