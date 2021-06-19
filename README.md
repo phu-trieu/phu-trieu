@@ -1,6 +1,6 @@
 # Hi there, I'm Phu, nice to meet you! 👋
 ![phu-trieu GitHub Stats](https://github-readme-stats.vercel.app/api?username=phu-trieu&show_icons=true&count_private=true&theme=react)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phu-trieu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phu-trieu&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **phu-trieu/phu-trieu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -56,4 +56,28 @@ In my free time, I enjoy playing video games (currently on my second playthrough
   <img title="webpack" height="40" src="img/webpack.svg">
 </div>
 
-## 💻 Applications 
+## 💻 Applications
+<div> 
+  <div><b>Nano Center</b></div>
+  <img height="400" src="/img/nano-center-2.png">
+  <ul>
+    <li><a href="https://nano-center.phutrieu.com/">Live Site</a></li>
+    <li><a href="https://github.com/phu-trieu/nano-center">GitHub</a></li>
+  </ul>
+</div>
+<div> 
+  <div><b>Stonk Reacts</b></div>
+  <img height="400" src="/img/stonk-reacts.png">
+  <ul>
+    <li><a href="https://stonkreacts.phutrieu.com/">Live Site</a></li>
+    <li><a href="https://github.com/phu-trieu/stonk-reacts">GitHub</a></li>
+  </ul>
+</div>
+<div> 
+  <div><b>Get Cookin'</b></div>
+  <img height="400" src="/img/get-cookin.png">
+  <ul>
+    <li><a href="https://get-cookin.phutrieu.com/">Live Site</a></li>
+    <li><a href="https://github.com/steventran815/get-cookin-app">GitHub</a></li>
+  </ul>
+</div>
