@@ -57,7 +57,7 @@ In my free time, I enjoy playing video games (currently on my second playthrough
 </div>
 
 ## 💻 Applications
-<div> 
+<!-- <div> 
   <div><b>Nano Center</b></div>
   <img height="400" src="/img/nano-center-2.png">
   <ul>
@@ -80,4 +80,45 @@ In my free time, I enjoy playing video games (currently on my second playthrough
     <li><a href="https://get-cookin.phutrieu.com/">Live Site</a></li>
     <li><a href="https://github.com/steventran815/get-cookin-app">GitHub</a></li>
   </ul>
-</div>
+</div> -->
+
+  <table>
+    <tr>
+      <th>Nano Center</th>
+      <th>Stonk Reacts</th>
+    </tr>
+    <tr>
+      <td><img height="400" src="/img/nano-center-2.png"></td>
+      <td><img height="400" src="/img/stonk-reacts.png"></td>
+    </tr>
+    <tr>
+      <td>
+        <ul>
+          <li><a href="https://nano-center.phutrieu.com/">Live Site</a></li>
+          <li><a href="https://github.com/phu-trieu/nano-center">GitHub</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li><a href="https://get-cookin.phutrieu.com/">Live Site</a></li>
+          <li><a href="https://github.com/steventran815/get-cookin-app">GitHub</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        Get Cookin'
+      </th>
+    </tr>
+    <tr>
+      <td><img height="400" src="/img/get-cookin.png" alt=""></td>
+    </tr>
+    <tr>
+      <td>
+        <ul>
+          <li><a href="https://stonkreacts.phutrieu.com/">Live Site</a></li>
+          <li><a href="https://github.com/phu-trieu/stonk-reacts">GitHub</a></li>
+        </ul>
+      </td>
+    </tr>
+  </table>
