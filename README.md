@@ -26,7 +26,7 @@ In my free time, I enjoy playing video games (currently on my second playthrough
 
 ## 📝 Learn More About Me
 * [My Portfolio](https://phutrieu.com/ "My Portfolio")
-* [My Resume](/Phu_Trieu_Resume_v3.pdf "My Resume")
+* [My Resume](https://docs.google.com/document/d/1UH_cF-5RqsLVqUHdEefKVYWW44QeJYNg5UXOlzYnD14/edit?usp=sharing "My Resume")
 
 
 ## ✒️ My Skills
